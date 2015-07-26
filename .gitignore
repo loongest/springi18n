@@ -3,4 +3,5 @@
 *.project
 *.settings
 *.settings/*
+*.springBeans
 target/
